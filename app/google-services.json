@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "272954778675",
+    "firebase_url": "https://projecttaver-default-rtdb.firebaseio.com",
+    "project_id": "projecttaver",
+    "storage_bucket": "projecttaver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272954778675:android:9475382b493f263c642f46",
+        "android_client_info": {
+          "package_name": "org.kpu.taver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272954778675-vo811p8gjspujkcpckmhnj1d5ge7iejh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUThkLEY81-2N-GZzxaJsU8Dc422ZA0sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272954778675-vo811p8gjspujkcpckmhnj1d5ge7iejh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272954778675:android:de8f764f09b6b4f7642f46",
+        "android_client_info": {
+          "package_name": "org.kpu.taver_camera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272954778675-vo811p8gjspujkcpckmhnj1d5ge7iejh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUThkLEY81-2N-GZzxaJsU8Dc422ZA0sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272954778675-vo811p8gjspujkcpckmhnj1d5ge7iejh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272954778675:android:0c4c1f0bb30a9e47642f46",
+        "android_client_info": {
+          "package_name": "org.kpu.tearch_cam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272954778675-bs1v715ss71nekhrq5if25gdp6crv9lh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.kpu.tearch_cam",
+            "certificate_hash": "f72934debc8d2ba1bb0a4a8921977d689fa9c8e0"
+          }
+        },
+        {
+          "client_id": "272954778675-vo811p8gjspujkcpckmhnj1d5ge7iejh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUThkLEY81-2N-GZzxaJsU8Dc422ZA0sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272954778675-vo811p8gjspujkcpckmhnj1d5ge7iejh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
